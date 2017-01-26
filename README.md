@@ -51,7 +51,7 @@
 > 方法：ghost后台 > `labs` > `Enable Beta Features` > `勾选 Public API`
 
 ### 开启Disqus
-Kaldorei支持Disqus讨论插件，只需在后台`代码注入`处添加一段代码
+支持Disqus讨论插件，只需在后台`代码注入`处添加一段代码
 
 > 方法：ghost后台 > `Code Injection` > `Blog Header`
 
