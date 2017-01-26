@@ -1,0 +1,28 @@
+{
+    "name": "idinutheme",
+    "description": "一个简单的Ghost主题",
+    "homepage": "https://github.com/javajeans/idinutheme",
+    "version": "0.7.5",
+    "author": {
+        "name": "javajeans",
+        "url": "https://github.com/javajeans"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/javajeans/idinutheme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/javajeans/idinutheme/issues"
+    },
+    "keywords": [
+        "simple",
+        "elegant",
+        "ghost",
+        "theme",
+        "idinu"
+    ],
+    "engines": {
+        "node": ">= 4"
+    },
+    "license": "MIT"
+}
