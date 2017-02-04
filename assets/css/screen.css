@@ -847,12 +847,45 @@ body.nav-opened .site-wrapper {
     /* for IE9 */
     transform: translateX(-50%);
 }
+
+.post-content a .fa-weibo {
+    color:#DE1513;
+}
+.post-content a .fa-weibo:hover {
+    color: #004e31;
+}
+.post-content a .fa-qq {
+    color:#60ABD3;
+}
+.post-content a .fa-qq:hover {
+    color: #004e31;
+}
+.post-content a .fa-renren {
+    color:#0173D1;
+}
+.post-content a .fa-renren:hover {
+    color: #004e31;
+}
+.post-content a .fa-facebook-official {
+    color:#3B5998;
+}
+.post-content a .fa-facebook-official:hover {
+    color: #004e31;
+}
+.post-content a .fa-twitter-square {
+    color:#55ACEE;
+}
+.post-content a .fa-twitter-square:hover {
+    color: #004e31;
+}
+
 .post-content a {
     color: #009a61;
 }
 .post-content a:hover {
     color: #004e31;
 }
+
 .post-content h3 {
     margin-left: -20px;
     padding-left: 15px;
@@ -882,8 +915,8 @@ body.nav-opened .site-wrapper {
 
 .post-footer {
     position: relative;
-    margin: 6rem 0 6rem;
-    padding: 6rem 0 0 0;
+    margin: 3rem 0 3rem;
+    padding: 3rem 0 0 0;
     border-top: #EBF2F6 1px solid;
 }
 .post-footer h4 {

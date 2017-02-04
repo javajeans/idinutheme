@@ -1,5 +1,5 @@
 /**
- * Main JS file for kaldorei behaviours
+ * Main JS file
  */
 
 /* globals jQuery, document */
@@ -165,3 +165,4 @@ function scrollToTop(name, speed) {
         }
     }
 }
+
